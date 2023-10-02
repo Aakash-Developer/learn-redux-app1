@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header style={{ height: "10%" }}>
       <Container maxW="1024px">
-        <Box py="20px" mb="20px">
+        <Box py="15px" mb="5px">
           <Flex alignItems="center">
             <Text bgGradient="linear(to-l, #7928CA, #FF0080)" bgClip="text" fontSize="4xl" fontWeight="extrabold">
               Dashboard
